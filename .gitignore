@@ -1,0 +1,14 @@
+# Python
+env/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+build/
+
+# VS Code
+.vscode/
+
+# .env files for secrets
+.env
